@@ -1,0 +1,25 @@
+.shops-list {
+  margin: 0 auto;
+  padding: 30px 15px;
+  max-width: 1230px;
+  display: flex;
+}
+
+.card {
+  width: 25%;
+  height: 200px;
+  margin: 10px auto;
+  padding: 15px 10px;
+  background: #fff;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.card_image {
+  height: 50%;
+}
+
+.card_action {
+  display: flex;
+  justify-content: space-between;
+}
